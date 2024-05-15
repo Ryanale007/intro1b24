@@ -1,0 +1,32 @@
+.dropdown{
+    display: none;
+
+}
+@media (max-width:980px){
+    .dropdown{
+        display: block;
+        background: #1161b1;
+        text-align: center;
+    }
+}
+.dropdown a{
+    color: 000;
+    line-height: 30px;
+    text-decoration: none;
+    color: ;
+}
+.dropdown i{
+    font-size: 20px;
+}
+.dropdown .dropdown-content{
+display: none;
+}
+.dropdown:hover .dropdown-content{
+    display: block;
+}
+.dropdown ul li{
+
+}
+
+
+    
